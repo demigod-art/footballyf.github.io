@@ -1,0 +1,32 @@
+.first-header {
+  background-color: lightblue;
+}
+
+h1 {
+  color: red;
+  text-align: center;
+  font-family: Sans-serif;
+}
+
+.h4 {
+	font-family: serif;
+	font-size: 30px;
+	
+}
+
+p {
+  font-family: verdana;
+  font-size: 20px;
+}
+
+nav ul li a{
+	text-decoration: none;
+	display: inline-block;
+	paddling: .2em 1em;
+	background-color: white;
+	
+}
+img {
+	float: right;
+	margin-top: 0.1px;
+}
